@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:23:41.282Z'
-dateModified: '2015-12-24T19:23:33.958Z'
+datePublished: '2015-12-24T19:24:46.155Z'
+dateModified: '2015-12-24T19:24:36.832Z'
 title: Petals in Doorway
 author: []
 sourcePath: _posts/2015-12-24-petals-in-doorway.md
