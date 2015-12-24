@@ -1,0 +1,14 @@
+layout_spectrum: 0.7096774
+color:
+  saturation: 1
+  brandStrength: 0.1483827
+  lightness: 0.7526882
+  rhythmicContrast: 0.718638
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.5788531
+name: 'Zen & Anarchy'
