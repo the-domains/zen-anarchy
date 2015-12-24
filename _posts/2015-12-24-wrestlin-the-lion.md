@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A cosmic battle with the only higher power
-datePublished: '2015-12-24T08:10:07.398Z'
-dateModified: '2015-12-24T08:09:14.757Z'
+datePublished: '2015-12-24T08:11:28.795Z'
+dateModified: '2015-12-24T08:11:13.478Z'
 title: "Wrestlin' the Lion"
 author: []
 authors: []
@@ -106,4 +106,14 @@ My will became a comet lost
 my us became the other  
 and last were these beneath the sea  
 my thoughts went drowning under
+
+No one ever told me
+
+That love is in the tryin'
+
+It's destiny in madness
+
+Love is wrestling the lion
+
+null
 null
