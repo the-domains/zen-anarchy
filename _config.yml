@@ -1,6 +1,6 @@
 name: 'Zen & Anarchy'
 favicon: null
-layout_spectrum: 0.7096774
+layout_spectrum: 0.61563
 typography_spectrum: 0.5788531
 title: 'Zen & Anarchy'
 cta:
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.1483827
-  lightness: 0.7526882
+  brandColors:
+    - '#fffeff'
+    - '#150f13'
+    - '#403531'
+    - '#bbc5ad'
+    - '#808068'
+  brandStrength: 0.4375
+  lightness: 0.25
   saturation: 1
-  rhythmicContrast: 0.718638
+  rhythmicContrast: 1
 purpose: []
